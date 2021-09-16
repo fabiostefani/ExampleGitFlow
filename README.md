@@ -16,3 +16,6 @@ HOTT2
 Ferchar release hot
 
 TESTE 6
+
+
+Fechar release 0.3.0
