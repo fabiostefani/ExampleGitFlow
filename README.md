@@ -6,3 +6,6 @@ Teste 3
 Teste 4
 
 Fechar versão
+----------------------------
+
+Teste 5
